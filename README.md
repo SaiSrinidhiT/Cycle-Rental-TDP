@@ -1,4 +1,4 @@
-<h1>Car-Rental-Management-System</h1>
+<h1>Cycle-Rental-Management-System</h1>
 
 <h3>Using Spring boot and Angular Frameworks Implemt Simple Cycle Rental Management System</h3>
 
